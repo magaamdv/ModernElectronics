@@ -1,0 +1,146 @@
+body{
+   overflow-x: hidden;
+}
+
+
+
+
+.iphone14p {
+   z-index: 1;
+   position: absolute;
+   top: 56px;
+   left: -162px;
+   width: 697px;
+}
+
+.iphone144 {
+   position: absolute;
+   width: 235px;
+   height: 369px;
+   left: 73px;
+   top: 124px;
+   background: #FFFFFF;
+   opacity: 0.5;
+   box-shadow: 0px 22px 65px rgb(83, 0, 102), 0px 8px 10px rgb(83, 0, 102);
+   border-radius: 20px;
+}
+
+.text {
+   font-family: 'Russo One', sans-serif;
+   font-size: 16px;
+   position: relative;
+   top: 299px;
+   left: 77px;
+   max-width: -1px;
+   max-height: 0;
+   margin: 0;
+}
+.text2 {
+   color: rgb(83, 0, 102);
+   font-family: 'Russo One', sans-serif;
+   font-size: 18px;
+   position: relative;
+   top: 320px;
+   left: 77px;
+   max-width: 0px;
+   max-height: 0px;
+   margin: 0;
+}
+
+.btn {
+   font-family: 'Russo One', sans-serif;
+   font-size: 16px;
+   position: relative;
+   top: 363px;
+   left: 77px;
+   text-decoration: none;
+   color: rgb(83, 0, 102);
+   border: 2px rgb(83, 0, 102) solid;
+   padding: 6px 30px;
+   border-radius: 3px;
+   transition: all 0.3s ease;
+}
+
+.btn:hover{
+   background-color: rgb(83, 0, 102);
+   color: #FFFFFF;
+}
+
+.korzina {
+   max-width: 56px;
+   position: relative;
+   top: 323px;
+   left: 223px;
+}
+
+
+.iphone14 {
+   z-index: 1;
+   position: absolute;
+   top: 140px;
+   left: 388px;
+   width: 226px;
+}
+
+.iphone143 {
+   position: absolute;
+   width: 235px;
+   height: 369px;
+   left: 383px;
+   top: 124px;
+   background: #FFFFFF;
+   opacity: 0.5;
+   box-shadow: 0px 22px 65px rgb(128, 166, 196), 0px 8px 10px rgb(128, 166, 196);
+   border-radius: 20px;
+}
+
+.text3 {
+   font-family: 'Russo One', sans-serif;
+   font-size: 16px;
+   position: relative;
+   top: 220px;
+   left: 390px;
+   max-width: -1px;
+   max-height: 0;
+   margin: 0;
+}
+
+
+.text4 {
+   color: rgb(128, 166, 196);
+   font-family: 'Russo One', sans-serif;
+   font-size: 18px;
+   position: relative;
+   top: 241px;
+   left: 390px;
+   max-width: 0px;
+   max-height: 0px;
+   margin: 0;
+}
+
+
+.btn2 {
+   font-family: 'Russo One', sans-serif;
+   font-size: 16px;
+   position: relative;
+   top: 243px;
+   left: 390px;
+   text-decoration: none;
+   color: rgb(128, 166, 196);
+   border: 2px rgb(128, 166, 196) solid;
+   padding: 6px 30px;
+   border-radius: 3px;
+   transition: all 0.3s ease;
+}
+
+.btn2:hover{
+   background-color: rgb(128, 166, 196);
+   color: #FFFFFF;
+}
+
+.korzina2 {
+   max-width: 56px;
+   position: relative;
+   top: 263px;
+   left: 401px;
+}

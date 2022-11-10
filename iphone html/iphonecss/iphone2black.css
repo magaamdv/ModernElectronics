@@ -1,0 +1,146 @@
+.ip {
+   position: absolute;
+   width: 820px;
+   height: 441px;
+   left: 22px;
+   top: 90px;
+   background: #FFFFFF;
+   opacity: 0.5;
+   box-shadow: 0px 15px 49px rgb(69, 68, 68), 0px 8px 10px rgb(69, 68, 68);
+   border-radius: 20px;
+}
+
+.ipp {
+   position: absolute;
+   top: 118px;
+   left: 22px;
+   width: 365px;
+}
+
+.text {
+      position: absolute;
+      top: 127px;
+      left: 369px;
+      text-transform: uppercase;
+      border: 2px rgb(69, 68, 68) solid;
+      background-color: #fff;
+      color: rgb(69, 68, 68);
+      padding: 8px 40px;
+      font-family: 'Russo One', sans-serif;
+      border-radius: 4px;
+      font-size: 20px;
+      transition: all 0.2s ease;
+  }
+
+
+  .text2 {
+   position: absolute;
+   top: 132px;
+   left: 586px;
+   text-transform: uppercase;
+   border: 2px rgb(69, 68, 68) solid;
+   background-color: rgb(69, 68, 68);
+   color: white;
+   padding: 11px 19px;
+   font-family: 'Russo One', sans-serif;
+   border-radius: 4px;
+   font-size: 15px;
+   transition: all 0.2s ease;
+}
+
+
+.text3 {
+   position: absolute;
+   top: 238px;
+   left: 369px;
+   text-transform: uppercase;
+   color: black;
+   font-family: 'Russo One', sans-serif;
+   border-radius: 4px;
+   font-size: 20px;
+}
+
+.color {
+   background-color: rgb(69, 68, 68);
+   color: rgb(69, 68, 68);
+   position: absolute;
+   top: 274px;
+   left: 403px;
+   border-radius: 5px;
+   width: 22px;
+}
+
+.color2 {
+   background-color: rgb(83, 0, 102);
+   color: rgb(83, 0, 102);
+   position: absolute;
+   top: 274px;
+   left: 374px;
+   border-radius: 5px;
+   width: 22px;
+}
+
+.pamat {
+   position: absolute;
+   top: 318px;
+   left: 369px;
+   text-transform: uppercase;
+   color: black;
+   font-family: 'Russo One', sans-serif;
+   border-radius: 4px;
+   font-size: 18px;
+}
+
+.p128 {
+   position: absolute;
+   top: 364px;
+   left: 377px;
+   text-transform: uppercase;
+   color: rgb(69, 68, 68);
+   font-family: 'Russo One', sans-serif;
+   border-radius: 4px;
+   font-size: 15px;
+
+   border: 2px rgb(69, 68, 68) solid;
+
+   padding: 0px 3px;
+}
+
+.p128:hover{
+   color: white;
+   background-color: rgb(69, 68, 68);
+}
+
+.buy {
+   position: absolute;
+   top: 422px;
+   left: 383px;
+   text-transform: uppercase;
+   border: 2px rgb(69, 68, 68) solid;
+   background-color: #fff;
+   color: rgb(69, 68, 68);
+   padding: 8px 113px;
+   font-family: 'Russo One', sans-serif;
+   border-radius: 4px;
+   font-size: 23px;
+   transition: all 0.2s ease;
+   text-decoration: none;
+}
+
+.buy:hover{
+   color: white;
+   background-color: rgb(69, 68, 68);
+}
+
+.name {
+   color: rgb(69, 68, 68);
+   font-family: 'Russo One', sans-serif;
+   position: absolute;
+   top: 87px;
+   left: 370px;
+   text-transform: uppercase;
+   font-size: 22px;
+   z-index: 1;
+}
+
+
