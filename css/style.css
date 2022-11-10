@@ -1,0 +1,550 @@
+body{
+   margin: 0;
+}
+.menu-btn{
+   position: relative;
+   top: -42px;
+   left: 218px;
+
+   width: 95px;
+   height: 19px;
+   font-family: 'Montserrat', sans-serif;
+   font-style: normal;
+   font-weight: 600;
+   font-size: 15px;
+   line-height: 19px;
+   text-decoration: none;
+
+   padding: 5px;
+
+   color: #13171D;
+
+   transition: color 0.19s linear;
+}
+
+.menu-btn:hover{
+   color: #015AA9;
+}
+
+.geo-img{
+   position: absolute;
+width: 32px;
+height: 32px;
+left: 692px;
+top: 36px;
+}
+
+.geo-text{
+   position: absolute;
+width: 281px;
+height: 17px;
+left: 725px;
+top: 35px;
+
+text-decoration: none;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+
+
+
+color: #13171D;
+}
+
+.geo-text2{
+   position: absolute;
+left: 723px;
+top: 50px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+text-decoration-line: underline;
+
+color: #015AA9;
+}
+
+.nomer{
+   position: relative;
+   top: -87px;
+   left: 915px;
+
+   width: 110px;
+height: 24px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+text-decoration: none;
+
+color: #13171D;
+}
+
+.nomer-img{
+   position: relative;
+   top: -35px;
+   left: 462px;
+}
+
+.header-text1{
+   position: absolute;
+   left: 52px;
+   top: 107px;
+   font-family:'Russo One', sans-serif;
+
+   font-style: normal;
+   font-size: 73px;
+   line-height: 100px;
+   
+   text-transform: uppercase;
+   color: #13171D;
+   
+}
+
+
+.header-text2{
+   position: absolute;
+   left: 52px;
+   top: 177px;
+   font-family:'Russo One', sans-serif;
+
+   font-style: normal;
+   font-size: 75px;
+   line-height: 100px;
+   
+   text-transform: uppercase;
+   color: #13171D;
+
+}
+.header-text3{
+   position: absolute;
+   left: 52px;
+   top: 246px;
+   font-family:'Russo One', sans-serif;
+
+   font-style: normal;
+   font-size: 80px;
+   line-height: 100px;
+   
+   text-transform: uppercase;
+   color: #015AA9;
+
+}
+
+
+.header-img{
+   position: absolute;
+width: 494px;
+left: 624px;
+top: 139px;
+}
+
+.header-btn{
+   position: relative;
+   top: 288px;
+   left: 48px;
+
+   font-family:'Russo One', sans-serif;
+
+   transition: all 0.4s ease;
+   font-size: 20px;
+   padding: 13px 80px;
+   border: 2px solid #015AA9;
+   text-transform: uppercase;
+   text-decoration: none;
+   color: #015AA9;
+   border-radius: 7px;
+}
+
+.header-btn:hover{
+   color: white;
+   background-color: #015AA9;
+}
+
+
+
+.contend-text{
+   position: absolute;
+left: 61px;
+top: 791px;
+
+font-family:'Russo One', sans-serif;
+font-size: 70px;
+text-transform: uppercase;
+color: #13171D;
+}
+
+.contend-text2 {
+   position: absolute;
+   left: 64px;
+   top: 845px;
+   font-family: 'Russo One', sans-serif;
+   font-size: 82px;
+   text-transform: uppercase;
+
+   color: #015AA9;
+}
+
+
+.iphone-ramka{
+   position: absolute;
+width: 263px;
+height: 260px;
+left: 488px;
+top: 800px;
+
+background: #FFFFFF;
+opacity: 0.5;
+box-shadow: 0px 50px 60px #015AA9, 0px 8px 10px #015AA9;
+border-radius: 30px 30px 3px 30px;
+}
+
+.iphone {
+   position: absolute;
+   left: 234px;
+   top: 668px;
+   width: 767px;
+   height: 446px;
+}
+
+
+
+.iphone-text{
+   text-decoration: none;
+    font-family: 'Russo One', sans-serif;
+    color: black;
+    position: absolute;
+    top: 996px;
+    left: 523px;
+    font-size: 22px;
+}
+
+.apple-ramka{
+   position: absolute;
+   left: 646px;
+   top: 878px;
+width: 92px;
+height: 92px;
+
+
+   background: #ffffff;
+box-shadow: 0px 20px 40px #015AA9, 0px 10px 10px #015AA9;
+border-radius: 50%;
+
+}
+
+.apple{
+   position: absolute;
+   left: 671px;
+   top: 896px;
+
+   width: 41px;
+}
+
+
+
+.androiddd {
+   position: absolute;
+   left: 362px;
+   top: 2px;
+}
+
+
+.androidd {
+   position: absolute;
+   left: 660px;
+   top: 896px;
+   width: 57px;
+}
+
+.android-ramka{
+   position: absolute;
+width: 263px;
+height: 260px;
+left: 488px;
+top: 800px;
+
+background: #FFFFFF;
+opacity: 0.5;
+box-shadow: 0px 50px 60px #015AA9, 0px 8px 10px #015AA9;
+border-radius: 30px 30px 3px 30px;
+}
+
+.android {
+   position: absolute;
+   left: 496px;
+   top: 759px;
+   height: 250px;
+}
+
+.android-text{
+   text-decoration: none;
+    font-family: 'Russo One', sans-serif;
+    color: black;
+    position: absolute;
+    top: 996px;
+    left: 523px;
+    font-size: 22px;
+}
+
+
+.android-ramkaa {
+   width: 92px;
+   height: 92px;
+   box-shadow: 0px 50px 60px #015AA9, 0px 8px 10px #015AA9;
+   background: #ffffff;
+   border-radius: 50%;
+   position: absolute;
+   top: 868px;
+   left: 641px;
+}
+
+
+.risunok1 {
+   position: absolute;
+   top: 859px;
+   left: 495px;
+   width: 75px;
+}
+
+.risunok2 {
+   position: absolute;
+   top: 814px;
+   left: 1009px;
+   max-width: 84px;
+}
+
+
+
+.watchh {
+   position: absolute;
+   left: -410px;
+   top: 330px;
+}
+
+.watch-ramka{
+   position: absolute;
+width: 263px;
+height: 260px;
+left: 488px;
+top: 800px;
+
+background: #FFFFFF;
+opacity: 0.5;
+box-shadow: 0px 50px 60px #015AA9, 0px 8px 10px #015AA9;
+border-radius: 30px 30px 3px 30px;
+}
+
+.watch {
+   position: absolute;
+   left: 499px;
+   top: 771px;
+   height: 250px;
+}
+
+.watch-text{
+   text-decoration: none;
+    font-family: 'Russo One', sans-serif;
+    color: black;
+    position: absolute;
+    top: 996px;
+    left: 523px;
+    font-size: 22px;
+}
+
+
+.watch-ramkaa {
+   width: 92px;
+   height: 92px;
+   box-shadow: 0px 50px 60px #015AA9, 0px 8px 10px #015AA9;
+   background: #ffffff;
+   border-radius: 50%;
+   position: absolute;
+   top: 868px;
+   left: 641px;
+}
+
+.risunok3 {
+   position: absolute;
+   top: 830px;
+   left: 498px;
+   max-width: 86px;
+}
+
+
+.nott {
+   position: absolute;
+   left: -42px;
+   top: 330px;
+}
+
+.not-ramka{
+   position: absolute;
+width: 263px;
+height: 260px;
+left: 488px;
+top: 800px;
+
+background: #FFFFFF;
+opacity: 0.5;
+box-shadow: 0px 50px 60px #015AA9, 0px 8px 10px #015AA9;
+border-radius: 30px 30px 3px 30px;
+}
+
+.not {
+   position: absolute;
+   left: 499px;
+   top: 771px;
+   height: 250px;
+}
+
+.not-text{
+   text-decoration: none;
+    font-family: 'Russo One', sans-serif;
+    color: black;
+    position: absolute;
+    top: 996px;
+    left: 523px;
+    font-size: 22px;
+}
+
+
+.not-ramkaa {
+   width: 92px;
+   height: 92px;
+   box-shadow: 0px 50px 60px #015AA9, 0px 8px 10px #015AA9;
+   background: #ffffff;
+   border-radius: 50%;
+   position: absolute;
+   top: 868px;
+   left: 641px;
+}
+
+.risunok4 {
+   position: absolute;
+   top: 830px;
+   left: 498px;
+   max-width: 86px;
+}
+
+.risunok5 {
+   position: absolute;
+   left: 672px;
+   top: 939px;
+}
+
+
+.pss {
+   position: absolute;
+   left: 312px;
+   top: 330px;
+}
+
+.ps-ramka{
+   position: absolute;
+width: 263px;
+height: 260px;
+left: 488px;
+top: 800px;
+
+background: #FFFFFF;
+opacity: 0.5;
+box-shadow: 0px 50px 60px #015AA9, 0px 8px 10px #015AA9;
+border-radius: 30px 30px 3px 30px;
+}
+
+.ps {
+   position: absolute;
+   left: 491px;
+   top: 760px;
+   height: 270px;
+}
+
+.ps-text {
+   text-decoration: none;
+   font-family: 'Russo One', sans-serif;
+   color: black;
+   position: absolute;
+   top: 1006px;
+   left: 506px;
+   font-size: 19px;
+}
+
+.ps-text2 {
+   text-decoration: none;
+   font-family: 'Russo One', sans-serif;
+   color: black;
+   position: absolute;
+   top: 1006px;
+   left: 583px;
+   font-size: 19px;
+}
+
+
+.ps-ramkaa {
+   width: 92px;
+   height: 92px;
+   box-shadow: 0px 50px 60px #015AA9, 0px 8px 10px #015AA9;
+   background: #ffffff;
+   border-radius: 50%;
+   position: absolute;
+   top: 868px;
+   left: 641px;
+}
+
+.risunok6 {
+   position: absolute;
+   top: 825px;
+   left: 493px;
+   max-width: 86px;
+}
+.risunok7 {
+   position: absolute;
+   left: 670px;
+   top: 939px;
+}
+
+.text-slide {
+   position: absolute;
+   top: 770px;
+   left: 580px;
+   opacity: 0;
+   margin: 0;
+}
+
+
+.footer {
+   position: relative;
+   right: 22px;
+   top: 1337px;
+   background: #015aa9a6;
+   margin: auto;
+   width: 1285px;
+   height: 160px;
+}
+
+.footer-text{
+   font-family: 'Russo One', sans-serif;
+   color: #fff;
+
+   position: absolute;
+   top: 65px;
+   left: 43px;
+}
+
+.footer-img {
+   width: 77px;
+
+   position: absolute;
+   top: 66px;
+   left: 201px;
+}
